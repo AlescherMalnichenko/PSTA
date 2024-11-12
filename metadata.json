@@ -1,0 +1,14 @@
+{
+    "name": "Espeseta",
+    "symbol": "PSTA",
+    "description": "The Espeseta Token (PSTA) is a decentralized cryptocurrency built on the Solana blockchain to enable fast, secure, and low-cost transactions while incorporating unique staking and fee-sharing mechanisms that benefit its community. The Espeseta project brings advanced token configurations to life through Solana's Token Extensions, allowing for fine-grained control over transfer fees, staking rewards, and token immutability.
+
+PSTA is designed with a total supply of 264.553 billion tokens, which will be allocated into dedicated reserves to support long-term growth and community engagement. Espeseta's tokenomics aims to balance development funding, staking rewards, scarcity and public access. A 0.01% transaction fee is applied to each transaction, with 50% of the fees collected distributed as staking rewards and the remaining 50% going into a developer wallet for ongoing project support. This dual fee mechanism provides a steady income for both the community and the developers, encouraging sustainable growth.
+
+Key features include the complete removal of minting and freezing authority, guaranteeing a fixed supply and increasing liquidity by allowing tokens to be freely transferable in decentralized markets and liquidity pools. A dedicated burn reserve further supports a deflationary approach, with 30% of the total supply set aside for gradual burning to drive scarcity and increase token value over time.
+
+Espeseta aims to leverage the speed, efficiency and scalability of the Solana network, in line with the platform's mission to make decentralized finance accessible to all. By combining the innovative Transfer Fee Extension and custom staking mechanisms, Espeseta empowers its holders and incentivizes active participation in the ecosystem.
+
+To learn more about Espeseta and its unique tokenomics, explore our deep dive into the Espeseta token project.",
+    "image": "https://raw.githubusercontent.com/AlescherMalnichenko/PSTA/refs/heads/main/Espeseta%20Logo.png?token=GHSAT0AAAAAAC2KILJWDAAHDX6GF7IRUYJYZZTGJXA"
+  }
